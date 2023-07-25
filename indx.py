@@ -6,8 +6,8 @@ X = 8
 Y = 8.1
 print(X , Y )
 #Assign One Value to Multiple Variables (choose random names & values).
-E = "basma" , 2 , 9.0
-print(E)
+E = U = A = 9.0
+print(E , U , A)
 #Assign multiple Values to Multiple Variables (choose random names & values).
 T , R , C =  7 ,"Ali" , 10
 print(T)
